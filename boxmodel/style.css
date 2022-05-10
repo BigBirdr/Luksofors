@@ -1,0 +1,33 @@
+.background{
+    background-color: gray;
+    width: 200px;
+    height: 400px;
+    margin-left: 500px;
+
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    
+}
+
+.red{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-left: 5px;
+    margin-top: 50px;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+.green{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
